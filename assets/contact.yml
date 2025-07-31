@@ -1,0 +1,14 @@
+projects:
+  - name: "Any on **My profile**"
+    contact: "zaorinu@proton.me"
+  - name: "In [CyonicSolutions](https://github.com/getcyonic)"
+    contact: "getcyonic+zaorinu@gmail.com"
+  - name: "In [Zunalita](https://github.com/zunalita)"
+    contact: "getcyonic+zunalita-zaorinu@gmail.com"
+
+important_note: |
+  **Important:**  
+  Please use only the specified contact methods above. When sending an email, follow the [**no-hello**](./assets/nohello.md) protocol (avoid generic greetings). Your message will be answered as quickly as possible. Contacting me through other channels is not permitted and may compromise your privacy or security.
+
+autogen_header: |
+  <!-- This file is auto-generated from contact.yml list -->
