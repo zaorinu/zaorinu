@@ -5,6 +5,7 @@ on:
     paths:
       - "assets/contact.yml"
       - ".github/workflows/generate-contacts.yml"
+      - "assets/js/generate-md.js"
   workflow_dispatch:
 
 jobs:
@@ -23,10 +24,11 @@ jobs:
       - name: Install js-yaml
         run: npm install js-yaml
 
-      - name: Generate Markdown
+      - name: Generate contact.md
         run: node assets/js/generate-md.js
 
-      - name: Commit and push changes
+      - name: Commit and push only contact.md
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update contacts.md from contacts.yml"
+          commit_message: "chore: update contact.md from contact.yml"
+          file_pattern: "contact.md"
