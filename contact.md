@@ -3,9 +3,9 @@
 
 | Project                        | How to Contact                            |
 |-------------------------------|------------------------------------------|
-| Any on **My profile** | zaorinu@proton.me |
-| In [CyonicSolutions](https://github.com/getcyonic) | getcyonic+zaorinu@gmail.com |
-| In [Zunalita](https://github.com/zunalita) | getcyonic+zunalita-zaorinu@gmail.com |
+| Any on **My profile** | github@zaorinu.is-a.dev |
+| In [CyonicSolutions](https://github.com/getcyonic) | getcyonic@zaorinu.is-a.dev |
+| In [Zunalita](https://github.com/zunalita) | zunalita@zaorinu.is-a.dev |
 
 ---
 
