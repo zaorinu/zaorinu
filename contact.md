@@ -3,7 +3,7 @@
 
 | Project                        | How to Contact                            |
 |-------------------------------|------------------------------------------|
-| Any on **My profile** | github@zaorinu.is-a.dev |
+| Any on **My profile** | hi@zaorinu.is-a.dev |
 | In [CyonicSolutions](https://github.com/getcyonic) | getcyonic@zaorinu.is-a.dev |
 | In [Zunalita](https://github.com/zunalita) | zunalita@zaorinu.is-a.dev |
 
