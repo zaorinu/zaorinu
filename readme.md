@@ -22,17 +22,3 @@ For me, solving problems is about keeping the logic clean while being
 comfortable with complexity.
 
 <br clear="right"/>
-
----
-
-### Links
-
-[Contact](contact.md) ‧
-[Share my profile](https://lasbt.github.io/share) ‧
-[Zunalita](https://github.com/zunalita)
-
----
-
-<p align="center">
-  <sub>You found the footer of this README, this means you read my introduction.</sub>
-</p>
